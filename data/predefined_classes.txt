@@ -1,0 +1,6 @@
+car
+person
+bike
+traffic sign 
+traffic light
+
